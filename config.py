@@ -1,4 +1,4 @@
-# Don't Remove Credit Tg - @VJ_Botz
+    # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -30,8 +30,8 @@ def is_enabled(value, default):
 # Ask Doubt on telegram @KingVJ01
       
 # Owner Information
-API_ID = int(environ.get("API_ID", ""))
-API_HASH = environ.get("API_HASH", "")
+API_ID = int(environ.get("API_ID", "28243586"))
+API_HASH = environ.get("API_HASH", "4022d5686b9b7a7cf8891205921a0ab3")
 ADMINS = int(environ.get("ADMINS", ""))
 
 # Database Information
