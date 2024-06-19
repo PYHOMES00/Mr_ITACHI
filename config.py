@@ -47,7 +47,7 @@ DB_NAME = environ.get("DB_NAME", "cluster0")
 # Bot Information
 BOT_TOKEN = environ.get("BOT_TOKEN", "7456518146:AAEY0de8VB537DSXzXMiWhC3CvpFjqecQ9A")
 BOT_USERNAME = environ.get("BOT_USERNAME", "MR_SUNG_PB_BOT") # your bot username without @
-PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://telegra.ph/file/f69ffb788e27be2d60e84.jpg https://telegra.ph/file/531109a51df28b01d5822.jpg https://telegra.ph/file/4ff2445eb814758548b52.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
 AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
